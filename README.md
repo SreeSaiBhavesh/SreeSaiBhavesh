@@ -16,13 +16,17 @@
 <a href="https://www.facebook.com/bhavesh.sreesai"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" width="40" height="40">
 <a href="https://mobile.twitter.com/Bhavesh_VSSB"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40">
 
+ 
+ <table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=alok27a&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok27a&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alok27a&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
 
-<div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&count_private=true&show_icons=true&theme=calm&border_radius=30&hide=stars"/>
-</a>
-  
-</div>
+  </tr>
+</table>
 
 <span>
 <h3 align="left">Languages and Tools:</h3>
