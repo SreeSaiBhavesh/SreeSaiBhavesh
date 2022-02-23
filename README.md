@@ -20,7 +20,7 @@
  <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeSaiBhavesh&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeSaiBhavesh&layout=compact&theme=tokyonight"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
 </table>
  
