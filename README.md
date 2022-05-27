@@ -7,7 +7,7 @@
 
 <br>
 <ul>
-<li>🌱I'm currently learning ML</li>
+<li>🌱I'm currently exploring DL and NLP</li>
 <li>👯I'm open to collaborate with other content creators</li>
 <li>🕴 Looking for internships</li>
 </ul>
