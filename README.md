@@ -9,7 +9,7 @@
 <ul>
 <li>🌱I'm currently exploring DL and NLP</li>
 <li>👯I'm open to collaborate with other content creators</li>
-<li>🕴 Looking for internships</li>
+<li>🕴Looking for internships</li>
 </ul>
 <h3 align="left">Connect me:</h2>
 <a href="https://www.instagram.com/bhavesh.vss/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
