@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi👋 Myself Bhavesh (VSSB)</h1>
 <br>
-<h3 align="center">I'm a tech enthusiast from india, who loves to explore new technologies, interested in solving real world problems using technical and analytical skills.</h3>
+<h3 align="center">I'm a tech enthusiast, who loves to explore new technologies, interested in solving real world problems using technical and analytical skills.</h3>
 
  📫 How to reach me: **saibhavesh8@gmail.com**
 
 <br>
 <ul>
 <li>🌱I'm currently exploring DL and NLP</li>
-<li> 😎 I'm currently working on self-made projects based on Machine Learning, Data Science and more.</li>
+<li> 😎 I'm currently working on projects based on Machine Learning, Deep Learning.</li>
 <li>👯I'm open to collaborate with other content creators</li>
 <li>🕴Looking for internships</li>
 </ul>
