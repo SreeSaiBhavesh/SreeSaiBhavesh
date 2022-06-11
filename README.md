@@ -3,17 +3,18 @@
 <br>
 <h3 align="center">I'm a tech enthusiast from india, who loves to explore new technologies, interested in solving real world problems using technical and analytical skills.</h3>
 
-- 📫 How to reach me: **saibhavesh8@gmail.com**
+ 📫 How to reach me: **saibhavesh8@gmail.com**
 
 <br>
 <ul>
 <li>🌱I'm currently exploring DL and NLP</li>
+<li> 😎 I'm currently working on self-made projects based on Machine Learning, Data Science and more.</li>
 <li>👯I'm open to collaborate with other content creators</li>
 <li>🕴Looking for internships</li>
 </ul>
+👀 I’m Keenly interested in fields of Machine Learning & Data Science.
 <h3 align="left">Connect me:</h2>
 <a href="https://www.instagram.com/bhavesh.vss/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
-<a href="https://www.facebook.com/bhavesh.sreesai"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" width="40" height="40">
 <a href="https://mobile.twitter.com/Bhavesh_VSSB"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40">
 <a href="https://www.linkedin.com/in/bhavesh-sree-sai-2a6849140/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 
