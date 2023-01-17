@@ -14,7 +14,7 @@
 </ul>
 👀 I’m Keenly interested in fields of Data Science.
 <h3 align="left">Connect with me:</h2>
-<a href="https://www.instagram.com/bhavesh.vss/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
+<!-- <a href="https://www.instagram.com/bhavesh.vss/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"> -->
 <a href="https://mobile.twitter.com/Bhavesh_VSSB"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40">
 <a href="https://www.linkedin.com/in/VSSB/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 
