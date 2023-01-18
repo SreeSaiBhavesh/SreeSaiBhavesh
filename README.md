@@ -19,12 +19,12 @@
 <a href="https://www.linkedin.com/in/VSSB/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 
  
- <table>
+<!--  <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeSaiBhavesh&layout=compact&theme=tokyonight"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
-</table>
+</table> -->
  
  <div class="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreeSaiBhavesh&theme=tokyonight" display=block width=90% height=200px alt="3" >
