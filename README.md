@@ -17,14 +17,18 @@
 <!-- <a href="https://www.instagram.com/bhavesh.vss/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"> -->
 <a href="https://mobile.twitter.com/Bhavesh_VSSB"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40">
 <a href="https://www.linkedin.com/in/VSSB/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-
+<!-- 
  
-<!--  <table>
+ <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeSaiBhavesh&layout=compact&theme=tokyonight"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
 </table> -->
+ 
+ <div class="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&theme=radical&show_icons=true"  display=block width=90% height=200px  alt="3" >
+ </div>
  
  <div class="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreeSaiBhavesh&theme=tokyonight" display=block width=90% height=200px alt="3" >
