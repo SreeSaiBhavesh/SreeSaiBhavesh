@@ -27,7 +27,7 @@
 </table> -->
  
  <div class="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&theme=radical&show_icons=true"  display=block width=90% height=200px  alt="3" >
+  <img src="https://github-readme-stats.vercel.app/api?username=SreeSaiBhavesh&count_private=true&theme=radical&show_icons=true&include_all_commits=true"  display=block width=90% height=200px  alt="3" >
  </div>
  
  <div class="center">
