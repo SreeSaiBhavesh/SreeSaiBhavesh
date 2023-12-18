@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi👋 Myself Sree Sai Bhavesh</h1>
+<h1 align="center">Hi👋 I'm Sree Sai Bhavesh</h1>
 <br>
-<h3 align="center">I am a Final Year B.Tech Student pursuing Computer Science and Engineering from Vellore Institute of Technology. A tech enthusiast with avid enthusiasm to learn and explore. I am kneeling interested in AI-ML, Data Science. I am interested in expanding my knowledge in various fields. I'm curious, passionate, and focused on learning new things and implementing the same in solving real-world problems. I truly believe in teamwork to maximize the benefits of various perspectives on an idea and increase effectiveness.</h3>
+<h3 align="center">I am a Final Year B.Tech Student pursuing Computer Science and Engineering from Vellore Institute of Technology. A tech enthusiast with avid enthusiasm to learn and explore. I am kneely interested in AI-ML, Data Science. I am interested in expanding my knowledge in various fields. I'm curious, passionate, and focused on learning new things and implementing the same in solving real-world problems. I truly believe in teamwork to maximize the benefits of various perspectives on an idea and increase effectiveness.</h3>
 
  📫 How to reach me: **saibhavesh8@gmail.com**
 
