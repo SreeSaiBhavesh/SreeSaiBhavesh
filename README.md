@@ -1,19 +1,21 @@
 
 <h1 align="center">Hi👋 I'm Sree Sai Bhavesh</h1>
 <br>
-<h3 align="center">I am a Final Year B.Tech Student pursuing Computer Science and Engineering from Vellore Institute of Technology. A tech enthusiast with avid enthusiasm to learn and explore. I am kneely interested in AI-ML, Data Science. I am interested in expanding my knowledge in various fields. I'm curious, passionate, and focused on learning new things and implementing the same in solving real-world problems. I truly believe in teamwork to maximize the benefits of various perspectives on an idea and increase effectiveness.</h3>
+<h3 align="center">I am a results-driven AI/ML professional with one year of industry experience and a Bachelor’s degree in Computer Science and Engineering from Vellore Institute of Technology, Vellore. As a tech enthusiast, I am deeply passionate about Artificial Intelligence, Machine Learning, and Data Science, continuously expanding my expertise across various domains.
+Driven by curiosity, innovation, and problem-solving, I actively seek opportunities to apply cutting-edge technologies to real-world challenges. I thrive in collaborative environments, believing that teamwork enhances creativity, fosters diverse perspectives, and maximizes efficiency. With a strong commitment to continuous learning and exploration, I am eager to contribute meaningfully to the advancement of AI and data-driven solutions.
+</h3>
+
 
  📫 How to reach me: **saibhavesh8@gmail.com**
 
 <br>
 <ul>
-<li>🌱 I'm currently exploring MLOPs, Generative AI, Large Language Models</li>
-<li> 😎 I'm currently working on projects based on Deep Learning, NLP, LLMs</li>
-<li> 💬 Ask me about Machine Learning, Neural Networks, Natural Language Processing </li>
+<li>🌱 I'm currently exploring MLOPs, Generative AI, and Recent AI Advancements</li>
+<li> 😎 I'm currently working on projects based on Agentic AI, LLMs</li>
+<li> 💬 Ask me about Machine Learning, Neural Networks, Natural Language Processing, LLMs </li>
 <li>👯 I'm open to collaborate with other content creators</li>
-<li>🕴 Looking for Internships</li>
 </ul>
-👀 I’m Keenly interested in fields of Data Science.
+👀 I’m Keenly interested in fields of Artificial Intelligence and Data.
 <h3 align="left">Connect with me:</h2>
 <a href="https://www.instagram.com/bhavesh.vss/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40">
 <a href="https://mobile.twitter.com/Bhavesh_VSSB"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40">
